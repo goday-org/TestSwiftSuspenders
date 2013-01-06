@@ -1,4 +1,4 @@
 TestSwiftSuspenders
 ===================
 
-Try SwiftSuspenders!!
+Try SwiftSuspenders!
